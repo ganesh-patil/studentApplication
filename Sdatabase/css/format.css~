@@ -1,6 +1,7 @@
 .center
       {
         text-align:center;
+        
       }
       
  label
@@ -12,9 +13,9 @@
  label[for=gender] {
  	margin-left: -160px;
  }
- label[for=Address]{
+/* label[for=Address]{
     margin-top:50px; 
- }
+ } */
  input[type=text]
  {
    display:inline-block;
@@ -30,3 +31,12 @@ input[type=submit]
    display:inline-block;
    width:300px;
  }
+ 
+ body {
+  
+  border : 2px solid #001;
+  padding : 5px;
+  background-color:#d0e4fe;
+  
+   
+   }
